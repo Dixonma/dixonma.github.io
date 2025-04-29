@@ -58,5 +58,24 @@ footer {
   text-align: center;
   margin-top: 40px;
   font-size: 0.9em;
-  color: #777;
+  color: #purple;
 }
+#resume {
+  margin-top: 40px;
+  text-align: center;
+}
+
+#resume button {
+  padding: 10px 20px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#resume button:hover {
+  background-color: #005fa3;
+}
+
