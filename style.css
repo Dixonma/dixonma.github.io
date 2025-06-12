@@ -7,7 +7,7 @@
 body {
   font-family: 'Helvetica', sans-serif;
   line-height: 1.6;
-  background-color: #f9f9f9;
+  background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%);
   color: #purple;
   padding: 20px;
 }
